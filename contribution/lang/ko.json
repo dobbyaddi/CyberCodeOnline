@@ -6286,15 +6286,15 @@
  	 	 	"eng": "Happy Halloween!"
  	 	},
  	 	"desc1": {
- 	 	 	"trans": "다시 올해의 으스스한 시간입니다! Shang-Ri-La는 특별한 이벤트와 함께 할로윈을 축하합니다!",
+ 	 	 	"trans": "다시 올해의 으스스한 시간입니다! 샹그릴라는 특별한 이벤트와 함께 할로윈을 축하합니다!",
  	 	 	"eng": "Its the spooky time of the year again! Shang-ri-la is celebrating Halloween with a special event!"
  	 	},
  	 	"desc2": {
- 	 	 	"trans": "적과 AI Core Auto Farm은 Jack-O-Lanterns를 떨어 뜨릴 수 있습니다! 이것을 사용하여 잠긴 전설 컨테이너를 제작할 수 있습니다!",
+ 	 	 	"trans": "적들과 자동사냥을 통해 잭-오-랜턴을 얻을 수 있습니다! 이것을 사용하여 잠긴 전설 상자를 제작할 수 있습니다!",
  	 	 	"eng": "Enemies and AI Core auto farm will have chance to drop Jack-o-lanterns! you can use these to craft Locked Legendary Containers!"
  	 	},
  	 	"desc3": {
- 	 	 	"trans": "할로윈 기간 동안 제한된 사이버 바트 채팅 기부 계층이 제공됩니다!",
+ 	 	 	"trans": "할로윈 기간 동안, 기간 한정으로 사이버-박쥐 채팅 후원 타이틀이 제공됩니다!",
  	 	 	"eng": "During Halloween, a time limited cyber-bat chat donation tier will be available!"
  	 	}
  	},
@@ -6304,11 +6304,11 @@
  	 	 	"eng": "Refer your friends to get amazing rewards!"
  	 	},
  	 	"desc1": {
- 	 	 	"trans": "무료 단위*",
+ 	 	 	"trans": "무료 유닛*",
  	 	 	"eng": "Free Unit*"
  	 	},
  	 	"desc2": {
- 	 	 	"trans": "희귀 잠긴 컨테이너",
+ 	 	 	"trans": "희귀 잠긴 상자",
  	 	 	"eng": "Rare Locked Container"
  	 	},
  	 	"desc3": {
